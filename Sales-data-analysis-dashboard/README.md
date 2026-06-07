@@ -1,4 +1,5 @@
 # Sales Data Analysis Dashboard
+![Dashboard Preview](Visuals/Sales-analysis-dashboard-preview.png)
 
 ## Project Overview
 
