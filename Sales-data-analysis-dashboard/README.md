@@ -57,7 +57,7 @@ The dataset contains transactional sales records including:
 - Regional data
 - Monthly sales records
 
-The original dataset contained columns A–J, while additional analytical columns (K–O) were computed during the analysis process using Excel formulas.
+The original dataset contained columns A–J, while additional business metrics (columns K–O), including Revenue, COGS, Profit, and Month categorization were derived from the original sales dataset using Excel formulas and analytical techniques.
 
 ---
 
