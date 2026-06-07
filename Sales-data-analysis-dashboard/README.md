@@ -132,7 +132,7 @@ Based on the analysis, the following recommendations were made:
 
 ## Dashboard Preview
 
-![Dashboard Preview](visuals/Sales-analysis-dashboard-preview.png)
+![Dashboard Preview](Visuals/Sales-analysis-dashboard-preview.png)
 
 ---
 
@@ -162,6 +162,6 @@ Sales-data-analysis-dashboard/
 David Edeh
 
 - GitHub: https://github.com/DavidEdeh22
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: www.linkedin.com/in/david-edeh-84aa65232
 
 ---
