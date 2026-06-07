@@ -32,7 +32,7 @@ Interactive sales analytics dashboard featuring:
 - COGS analysis by city
 - Monthly customer trend analysis
 
-[View Project](./sales-data-analysis-dashboard)
+[View Project](./Sales-data-analysis-dashboard)
 
 ---
 
