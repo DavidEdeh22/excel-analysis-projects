@@ -44,4 +44,5 @@ More projects will be added as I continue building my analytics portfolio.
 
 David Edeh
 
-GitHub: https://github.com/DavidEdeh22
+<a href="https://github.com/DavidEdeh22"><kbd>Visit My GitHub Profile</kbd></a>
+<a href="http://www.linkedin.com/in/david-edeh-84aa65232"><kbd>Visit My LinkedIn Profile</kbd></a>
